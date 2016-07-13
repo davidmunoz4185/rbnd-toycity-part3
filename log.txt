@@ -1,3 +1,15 @@
+commit 2d147bcf50a616ab406aaa90ba8e68acda124eb2
+Author: davidmunoz4185 <david.munoz4185@gmail.com>
+Date:   Wed Jul 13 15:02:05 2016 +0200
+
+    Initial version from Repository
+
+commit df2eb3669a06b55f6bd6e7b8a39a934c1943e4dd
+Author: davidmunoz4185 <david.munoz4185@gmail.com>
+Date:   Wed Jul 13 14:37:09 2016 +0200
+
+    Add ability to create and count products
+
 commit fc2d17c24d98def6997cb0e71ff49aee8c3ee557
 Author: Jerome Chenette <jerome.chenette@gmail.com>
 Date:   Thu Apr 7 11:53:19 2016 -0700
