@@ -1,0 +1,14 @@
+1 -. How long did you spend working on this project?
+
+More than 20 hours working just in this project.
+
+2 -. What was the most rewarding challenge you conquered?
+Understanding transaction class and how it works, also OOP is other way of programming I dont feel so confident yet and I hope to incorporate to my own skills.
+
+3 -. What two additional features did you build? Why?
+
+Feature 1: total purchases by customer in order to know how much money one customer has spent
+Feature 2: Customer names, in order to know the different names of our customer instead of a more statistical data.
+
+4 -. Where do you still have room to grow?
+Ruby has a lot of functions in order to write "one line scripts". I would like to keep learning in order to enhance Ruby´s skills and, in addition, create elegant code

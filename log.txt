@@ -1,3 +1,9 @@
+commit ad195d74a5613f626f88e92c9468519afb55a8a6
+Author: davidmunoz4185 <david.munoz4185@gmail.com>
+Date:   Wed Jul 13 16:33:44 2016 +0200
+
+    First version for Customer Class
+
 commit f0d39e9d0426dc5320a18e6e0c62a9968e94a343
 Author: davidmunoz4185 <david.munoz4185@gmail.com>
 Date:   Wed Jul 13 16:05:28 2016 +0200
